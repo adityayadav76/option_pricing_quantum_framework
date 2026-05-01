@@ -33,6 +33,8 @@ Pricing of:
 	A portfolio of options of the above six types
 
 
+To see a demonstration of code in this repo please see the [Demo Video](https://youtu.be/OpWgkwLNl-8)
+
 ### Intellectual Property
 
 All rights are reserved by Automatski for Automatski-authored components of this codebase. Rights to third-party or upstream components remain with their respective original authors and licensors.
