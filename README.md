@@ -3,6 +3,9 @@ A Production Grade Framework For Option Pricing Using Quantum Computers
 
 ![](https://automatski.com/wp-content/uploads/2025/05/Automatski-New-Logo.svg)
 
+![](https://raw.githubusercontent.com/adityayadav76/option_pricing_quantum_framework/refs/heads/main/screenshot.png)
+
+
 ## About
 
 This repository contains an implementation of Option Pricing using Quantum Computers created by [Automatski](https://automatski.com). Automatski's Quantum Computers support upto 100's or Logical Qubits and millions of Gates.
